@@ -1,11 +1,11 @@
 <?php 
-    $rating = [
-        'Sangat Buruk'  => 1,
-        'Buruk'         => 2,
-        'Cukup'         => 3,
-        'Baik'          => 4,
-        'Sangat Baik'   => 5
-    ];
+    // $rating = [
+    //     'Sangat Buruk'  => 1,
+    //     'Buruk'         => 2,
+    //     'Cukup'         => 3,
+    //     'Baik'          => 4,
+    //     'Sangat Baik'   => 5
+    // ];
 
     $tblRiil = [
         [0.75, 2000, 18, 50, 500],
